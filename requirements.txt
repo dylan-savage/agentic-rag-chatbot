@@ -1,0 +1,8 @@
+# Requirements for the Agentic RAG Chatbot
+crewai
+qdrant-client
+chonkie
+deepeval
+openai
+tqdm
+python-dotenv

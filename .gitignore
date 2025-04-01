@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python build/cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables
+.env
+
+# Editor stuff (Cursor is VS Code-based)
+.vscode/
+
+# macOS
+.DS_Store
