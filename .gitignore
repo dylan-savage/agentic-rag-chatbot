@@ -1,16 +1,18 @@
 # Virtual environment
 venv/
-
+venv-old-py39/
 # Python build/cache
 __pycache__/
 *.py[cod]
 *.egg-info/
 
-# Environment variables
-.env
 
 # Editor stuff (Cursor is VS Code-based)
 .vscode/
 
 # macOS
 .DS_Store
+
+.deepeval_telemetry.txt
+
+.pytest_cache/

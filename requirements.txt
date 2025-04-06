@@ -1,8 +1,14 @@
 # Requirements for the Agentic RAG Chatbot
 crewai
 qdrant-client
-chonkie
 deepeval
 openai
 tqdm
 python-dotenv
+git+https://github.com/GPTim/chonkie.git  # Forked Chonkie repo
+chonkie[semantic]
+beautifulsoup4
+pymupdf
+sentence-transformers
+langchain
+together
